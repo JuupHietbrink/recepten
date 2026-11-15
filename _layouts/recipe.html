@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% assign credit = site.data.credits[page.image | split: "/" | last | split: "." | first] %}
+<article class="page recipe-page">
+  <header class="hero" style="background-image:url('{{ page.image | relative_url }}')">
+    <div class="hero-text">
+      <p class="kicker">{% if page.section == 'italiaans' %}Italiaans{% elsif page.section == 'japans' %}Japans{% else %}Techniek{% endif %}</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    </div>
+  </header>
+  <div class="body">
+    {{ content }}
+  </div>
+  {% if credit %}
+  <p class="photo-credit">Foto: {{ credit.artist }}, <a href="{{ credit.page }}">Wikimedia Commons</a>, {{ credit.license }}</p>
+  {% endif %}
+</article>
+
+{% assign siblings = site.pages | where: "section", page.section | sort: "order" %}
+<nav class="pager no-print">
+  {% for p in siblings %}
+    {% if p.url == page.url %}
+      {% assign previ = forloop.index0 | minus: 1 %}
+      {% assign nexti = forloop.index0 | plus: 1 %}
+      {% if forloop.index0 > 0 %}{% assign prev = siblings[previ] %}{% endif %}
+      {% if nexti < siblings.size %}{% assign next = siblings[nexti] %}{% endif %}
+    {% endif %}
+  {% endfor %}
+  <span>{% if prev %}<a href="{{ prev.url | relative_url }}">← {{ prev.title }}</a>{% endif %}</span>
+  <span>{% if next %}<a href="{{ next.url | relative_url }}">{{ next.title }} →</a>{% endif %}</span>
+</nav>

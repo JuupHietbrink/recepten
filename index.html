@@ -1,0 +1,58 @@
+---
+layout: default
+title: "Pasta, sushi & wijn"
+---
+{% assign ital = site.pages | where: "section", "italiaans" | sort: "order" %}
+{% assign jap = site.pages | where: "section", "japans" | sort: "order" %}
+{% assign tech = site.pages | where: "section", "technieken" | sort: "order" %}
+
+<section class="page cover" style="background-image:url('{{ '/assets/img/tagliatelle-al-ragu-alla-bolognese.jpg' | relative_url }}')">
+  <div class="cover-text">
+    <p class="kicker">Een kookboek voor twee goede vrienden</p>
+    <h1>Pasta, sushi<br>&amp; wijn</h1>
+    <p class="dedication">Twaalf gerechten die bestaan, met de wijn die erbij hoort.</p>
+  </div>
+</section>
+
+<section class="page toc">
+  <div class="body">
+    <h2>Inhoud</h2>
+
+    <div class="toc-section" id="technieken">
+      <h3>Technieken</h3>
+      <ol class="toc-list">
+        {% for p in tech %}
+        <li><span class="num">{{ forloop.index }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ol>
+    </div>
+
+    <div class="toc-section" id="italiaans">
+      <h3>Italiaans</h3>
+      <ol class="toc-list">
+        {% for p in ital %}
+        <li><span class="num">{{ forloop.index }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a><span class="meta">{{ p.subtitle | split: " · " | first }}</span></li>
+        {% endfor %}
+      </ol>
+    </div>
+
+    <div class="toc-section" id="japans">
+      <h3>Japans</h3>
+      <ol class="toc-list">
+        {% for p in jap %}
+        <li><span class="num">{{ forloop.index }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a><span class="meta">{{ p.subtitle | split: " · " | first }}</span></li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="page no-print">
+  <div class="body">
+    <h2>In beeld</h2>
+    <div class="grid">
+      {% for p in ital %}<a href="{{ p.url | relative_url }}" style="background-image:url('{{ p.image | relative_url }}')"><span>{{ p.title }}</span></a>{% endfor %}
+      {% for p in jap %}<a href="{{ p.url | relative_url }}" style="background-image:url('{{ p.image | relative_url }}')"><span>{{ p.title }}</span></a>{% endfor %}
+    </div>
+  </div>
+</section>

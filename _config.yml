@@ -1,0 +1,31 @@
+title: "Pasta, sushi & wijn"
+description: "Een kookboek voor twee goede vrienden"
+lang: nl
+url: "https://juuphietbrink.github.io"
+baseurl: "/recepten"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+relative_links:
+  enabled: true
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .venv

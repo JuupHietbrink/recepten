@@ -1,0 +1,26 @@
+---
+layout: default
+title: Fotoverantwoording
+---
+<section class="page">
+  <div class="body">
+    <h2>Fotoverantwoording</h2>
+    <p>De foto's in dit boek zijn afkomstig van <a href="https://commons.wikimedia.org">Wikimedia Commons</a> en worden gebruikt onder de vermelde Creative Commons-licenties. Klik op een bestandsnaam voor de originele pagina en de volledige licentievoorwaarden.</p>
+    <table class="wide">
+      <thead><tr><th>Pagina</th><th>Bestand</th><th>Fotograaf</th><th>Licentie</th></tr></thead>
+      <tbody>
+      {% for c in site.data.credits %}
+        {% assign slug = c[0] %}{% assign v = c[1] %}
+        {% assign pg = site.pages | where_exp: "p", "p.image contains slug" | first %}
+        <tr>
+          <td>{% if pg %}<a href="{{ pg.url | relative_url }}">{{ pg.title }}</a>{% else %}{{ slug }}{% endif %}</td>
+          <td><a href="{{ v.page }}">{{ v.file }}</a></td>
+          <td>{{ v.artist }}</td>
+          <td>{% if v.license_url %}<a href="{{ v.license_url }}">{{ v.license }}</a>{% else %}{{ v.license }}{% endif %}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <p><em>Let op bij het drukken van het boek:</em> foto's onder CC BY en CC BY-SA mogen in een gedrukt exemplaar worden gebruikt mits deze bronvermelding wordt opgenomen. De CC0-foto (temaki) is vrij van voorwaarden.</p>
+  </div>
+</section>
