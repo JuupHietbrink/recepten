@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign credit = site.data.credits[page.image | split: "/" | last | split: "." | first] %}
+{% assign imgfile = page.image | split: "/" | last %}
+{% assign slug = imgfile | split: "." | first %}
+{% assign credit = site.data.credits[slug] %}
 <article class="page recipe-page">
   <header class="hero" style="background-image:url('{{ page.image | relative_url }}')">
     <div class="hero-text">
