@@ -10,7 +10,7 @@ Het tiramisù zoals we het kennen is eind jaren zestig ontstaan in restaurant *L
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Eidooiers, zeer vers | 6 |
 | Kristalsuiker | 250 g |

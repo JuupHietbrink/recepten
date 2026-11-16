@@ -10,7 +10,7 @@ order: 1
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Sushirijst (*shari*), bereid volgens de techniekpagina | van 500 g droge rijst |
 | Zalmfilet, sashimi-kwaliteit, zonder huid | 200 g |

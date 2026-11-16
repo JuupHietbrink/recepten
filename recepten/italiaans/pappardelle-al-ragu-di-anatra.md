@@ -10,7 +10,7 @@ Eendenragù is een klassiek jachtgerecht uit het Toscaanse binnenland, tradition
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Eendenbouten (of 1 hele eend van ca. 1,8 kg in 8 stukken) | 4 bouten, ca. 1 kg |
 | Ui | 1 middelgrote |

@@ -10,7 +10,7 @@ Herfstrisotto uit de rijstvlakte van de Po, waar Carnaroli en Vialone Nano worde
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Carnaroli-rijst (tweede keus: Vialone Nano of Arborio) | 320 g |
 | Verse porcini (eekhoorntjesbrood) | 300 g |

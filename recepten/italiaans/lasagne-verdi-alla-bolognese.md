@@ -11,14 +11,14 @@ De echte Bolognese lasagne is *verde*: het deeg wordt gemaakt met spinazie, en d
 ## Ingrediënten
 
 ### Sfoglia verde (groen deeg)
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Tipo 00 bloem | 400 g |
 | Eieren (L) | 3 |
 | Verse spinazie | 150 g (bevroren: 100 g, goed uitgeknepen) |
 
 ### Besciamella
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Volle melk | 1 liter |
 | Boter | 100 g |
@@ -26,7 +26,7 @@ De echte Bolognese lasagne is *verde*: het deeg wordt gemaakt met spinazie, en d
 | Nootmuskaat, zout | |
 
 ### Verder
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Ragù alla bolognese (zie [recept](tagliatelle-al-ragu-alla-bolognese.md)) | 1 volledig recept (ca. 1 kg) |
 | Parmigiano Reggiano, versgeraspt | 200 g |

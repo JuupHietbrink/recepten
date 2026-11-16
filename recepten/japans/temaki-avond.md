@@ -11,14 +11,14 @@ order: 2
 ## Ingrediënten
 
 ### Basis
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Sushirijst, bereid volgens de [techniekpagina](../../technieken/sushi-basis.md) | van 600 g droge rijst |
 | Nori-vellen, in vieren gesneden | 10 vellen (40 kwarten) |
 | Wasabi, Japanse sojasaus, gari | |
 
 ### Vis en zeevruchten (kies 3–4)
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Zalm, sashimi-kwaliteit, in reepjes van 1 cm | 250 g |
 | Tonijn (*akami*), in reepjes | 250 g |
@@ -28,7 +28,7 @@ order: 2
 | Ikura (zalmeitjes) | 80 g |
 
 ### Groenten en garnituur
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Komkommer, in lucifers | 1 |
 | Avocado, rijp, in reepjes (met citroensap) | 2 |
@@ -40,7 +40,7 @@ order: 2
 | Japanse mayonaise (Kewpie) | |
 
 ### Tamagoyaki
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Eieren | 4 |
 | Dashi (of water) | 2 eetlepels |

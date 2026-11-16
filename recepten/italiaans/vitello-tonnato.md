@@ -11,7 +11,7 @@ Koud, dun gesneden kalfsvlees onder een romige tonijnsaus – het klassieke Piem
 ## Ingrediënten
 
 ### Kalfsvlees
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Kalfsmuis of kalfsfricandeau (*girello* / *magatello*), één compact stuk | 800 g |
 | Droge witte wijn | 500 ml |
@@ -24,7 +24,7 @@ Koud, dun gesneden kalfsvlees onder een romige tonijnsaus – het klassieke Piem
 | Zout | |
 
 ### Salsa tonnata
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Tonijn in olijfolie (bij voorkeur *ventresca*), uitgelekt | 200 g |
 | Ansjovisfilets in olie | 4 |

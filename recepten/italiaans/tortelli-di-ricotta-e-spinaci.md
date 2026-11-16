@@ -14,7 +14,7 @@ Gevulde pasta met ricotta en spinazie bestaat onder vele namen in de Po-vlakte e
 Eierdeeg van 300 g tipo 00-bloem en 3 eieren (zie [Verse pasta](../../technieken/verse-pasta.md)), zeer dun uitgerold (stand 7–8).
 
 ### Vulling
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Ricotta (schapen- of koemelk, goed uitgelekt) | 400 g |
 | Verse spinazie (of snijbiet-blad) | 400 g |
@@ -24,7 +24,7 @@ Eierdeeg van 300 g tipo 00-bloem en 3 eieren (zie [Verse pasta](../../technieken
 | Zout, zwarte peper | |
 
 ### Saus
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Boter, ongezouten | 100 g |
 | Verse salieblaadjes | 16–20 |

@@ -11,7 +11,7 @@ Het recept voor ragù alla bolognese is in 1982 door de Bolognese afdeling van d
 ## Ingrediënten
 
 ### Ragù
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Rundergehakt, grof gemalen (bij voorkeur *cartella* / longhaas, of schouder) | 400 g |
 | Pancetta tesa (platte, ongerookte pancetta), fijn gesneden | 150 g |

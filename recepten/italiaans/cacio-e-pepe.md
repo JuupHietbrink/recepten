@@ -10,7 +10,7 @@ Drie ingrediënten: pasta, Pecorino Romano en zwarte peper. Het is het eenvoudig
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Tonnarelli (verse spaghetti alla chitarra) of spaghetti van brons getrokken | 400 g |
 | Pecorino Romano DOP, zeer fijn geraspt (microplane) | 200 g |

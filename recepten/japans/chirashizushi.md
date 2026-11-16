@@ -10,7 +10,7 @@ order: 3
 
 ## Ingrediënten
 
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Sushirijst, bereid volgens de [techniekpagina](../../technieken/sushi-basis.md) | van 400 g droge rijst |
 | Zalm, sashimi-kwaliteit | 200 g |

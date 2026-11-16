@@ -11,7 +11,7 @@ Het Milanese feestgerecht bij uitstek: in de oven gesmoorde kalfsschenkel met de
 ## Ingrediënten
 
 ### Ossobuco
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Kalfsschenkel, plakken van 3–4 cm dik met bot en merg | 4 stuks (ca. 350 g per stuk) |
 | Bloem | 50 g |
@@ -22,14 +22,14 @@ Het Milanese feestgerecht bij uitstek: in de oven gesmoorde kalfsschenkel met de
 | Zout, zwarte peper | |
 
 ### Gremolata
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Platte peterselie, fijngehakt | 3 eetlepels |
 | Knoflook, zeer fijn gehakt | 1 teen |
 | Rasp van onbehandelde citroen | 1 citroen |
 
 ### Risotto alla milanese
-| | |
+| Ingrediënt | Hoeveelheid |
 |---|---|
 | Carnaroli-rijst | 320 g |
 | Saffraandraadjes | 0,3 g (een royaal snufje, ca. 30 draadjes) |

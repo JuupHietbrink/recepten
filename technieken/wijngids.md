@@ -29,7 +29,7 @@ Lichte gerechten, lichte wijn; zware gerechten, zware wijn. Een Barolo verplette
 
 De meest gemaakte fout: rood te warm, wit te koud.
 
-| | |
+| Wijn | Temperatuur |
 |---|---|
 | Mousserend, Champagne | 6–8 °C |
 | Lichte witte wijn, sake (ginjo) | 8–10 °C |
